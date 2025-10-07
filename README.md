@@ -3,7 +3,7 @@
 <p>A responsive page for <a href="https://www.frontendmentor.io/challenges/suite-landing-page-tj_eaU-Ra" target="_blank">[Suite Landing Page on Frontend Mentor]</a>.</p>
 
 <figure>
-  <img src="/resources/images/screenshot.png">
+  <img src="/resources/assets/screenshot.png">
 </figure>
 
 # 🔗 Links
